@@ -1,36 +1,37 @@
-# Roadmaps
+# SquidGamers Roadmap
 
-SquidGamers Roadmap :
+SquidGamers is a blockchain-based gaming platform that combines innovative tokenomics, NFTs, and a reward system to enhance player engagement and create a sustainable ecosystem.
 
-1.	Launch Phase
-•	Token Launch:
-•	Release Squid Token on the Virtual Protocol with the following allocation: 30% for rewards, 2% for development, and 68% for liquidity.
-•	Basic Game Development:
-•	Launch the initial version of the game with basic features.
-•	Implement a reward system based on player performance.
-•	Website Upgrade:
-•	Add wallet integration (e.g., MetaMask, Trust Wallet) to the website for users to connect their wallets.
-2.	 Reward System & Game Expansion
-•	Wallet Integration:
-•	Enable players to connect their wallets to receive Squid Token rewards after completing games.
-•	Deploy smart contracts for automated reward distribution.
-•	Gameplay Enhancement:
-•	Add new levels, challenges, and missions to enrich the gaming experience.
-•	Community Building:
-•	Launch official communities on Telegram/Discord to engage with players and investors.
-•	Start early-bird reward programs for initial adopters.
-3.	 NFT Marketplace Launch
-•	NFT Character Release:
-•	Launch a collection of exclusive Squid Game-inspired NFT characters.
-•	Players can purchase NFTs using Squid Token in the in-game marketplace.
-•	NFTs will offer in-game benefits, such as special abilities or performance boosts.
-•	Marketplace Integration:
-•	Introduce a peer-to-peer marketplace for players to buy and sell NFTs.
-4.	Collaboration
-•	DAO Implementation:
-•	Introduce a DAO model to involve the community in decisions regarding game development and token economics.
-•	Game Franchise Expansion:
-•	Develop additional games using Squid Token and NFTs, creating a sustainable gaming ecosystem.
-•	Global Collaboration:
-•	Partner with major gaming platforms or blockchain gaming projects to boost adoption.
+## Roadmap Overview
+Our roadmap is divided into four main phases:
 
+1. **Launch Phase**
+   - Token launch with allocations for rewards, development, and liquidity.
+   - Release the initial version of the game with basic features.
+   - Integrate wallet functionality into the website.
+
+2. **Reward System & Game Expansion**
+   - Implement wallet integration and deploy smart contracts for rewards.
+   - Add new game levels, challenges, and missions.
+   - Build a strong community on Telegram and Discord.
+
+3. **NFT Marketplace Launch**
+   - Release Squid Game-inspired NFT characters with in-game benefits.
+   - Enable a peer-to-peer marketplace for buying and selling NFTs.
+
+4. **Collaboration**
+   - Implement DAO for community-driven decision-making.
+   - Expand the SquidGamers franchise with additional games.
+   - Collaborate with major gaming and blockchain platforms.
+
+## Repository Structure
+- `roadmap/`: Detailed roadmap documentation.
+- `contracts/`: Smart contract files for Squid Token and other blockchain features.
+- `docs/`: Documentation for each feature and phase.
+- `game/`: Details and progress of game development.
+
+## How to Contribute
+We welcome contributions from the community! Please check our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
